@@ -4,7 +4,7 @@ module.exports = {
     extend: {
       fontFamily: {
         body: ['Victor Mono', 'monospace'],
-        maintitle: ['Georama', 'cursive'],
+        maintitle: ['Georama', 'serif'],
       },
       fontSize: {
         '7xl': '5rem',
