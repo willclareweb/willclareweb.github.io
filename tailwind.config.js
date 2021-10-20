@@ -3,12 +3,16 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        body: ['Libre Baskerville', 'Georgia', 'Cambria', 'Times New Roman', 'Times', 'serif'],
-        maintitle: ['Great Vibes', 'cursive'],
+        body: ['Victor Mono', 'monospace'],
+        maintitle: ['Georama', 'cursive'],
       },
       fontSize: {
         '7xl': '5rem',
       },
+      colors: {
+        'bglight': '#EFEEEB',
+        'fgbrown': '#988480',
+      }
     },
   },
 }
