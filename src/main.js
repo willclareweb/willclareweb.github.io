@@ -3,7 +3,7 @@
 
 import DefaultLayout from '~/layouts/Default.vue'
 import '~/assets/css/base.postcss'
-import '@fontsource/georama/700-italic.css'
+import '@fontsource/georama/latin-700-italic.css'
 import '@fontsource/victor-mono/400.css'
 import '@fontsource/victor-mono/latin-400-italic.css'
 

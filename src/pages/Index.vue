@@ -8,7 +8,7 @@
         alt="willclareweb's Logo"
         src="~/assets/img/wcw-logo.svg"
       />
-      <h1 class="font-maintitle font-bold text-5xl leading-none text-fgbrown md:text-center">willclareweb</h1>
+      <h1 class="font-maintitle italic font-bold text-5xl leading-none text-fgbrown md:text-center">willclareweb</h1>
       <h2 class="italic text-base mt-0 mb-6 md:text-center">This website is under construction</h2>
 
       <p class="md:text-center">Branding // Websites // Graphic Design // Art // Music</p>
