@@ -16,7 +16,7 @@
     "gridsome-plugin-tailwindcss": "^3.0.1"
   },
   "devDependencies": {
-    "@fontsource/georama": "^4.5.1",
+    "@fontsource/georama": "^4.5.7",
     "@fontsource/victor-mono": "^4.5.0",
     "gh-pages": "^3.2.3",
     "netlify-plugin-gridsome-cache": "^1.0.3"
